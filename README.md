@@ -1,5 +1,5 @@
 # AcalaDocuments
 documents for Acala network
 
-[NetworkBuilding](./StartAcalaNetworkCN.md)
+[Start Acala Network](./StartAcalaNetworkCN.md)
 
